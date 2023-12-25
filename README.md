@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+    **WeTube**
+     -Wetube is a web application that mimics the user interface and functionality of the popular video-sharing platform YouTube. It is built with React, Redux, and YouTube API v3.
+      
